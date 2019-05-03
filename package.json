@@ -1,0 +1,10 @@
+{
+  "name": "cattous-tachyons",
+  "version": "1.0.0",
+  "description": "Tachyons theme for Cattous",
+  "main": "src/index.js",
+  "repository": "https://github.com/ImedAdel/cattous-tachyons",
+  "author": "Imed Adel <aadelimed@gmail.com> (https://imedadel.me)",
+  "license": "MIT",
+  "private": false
+}
