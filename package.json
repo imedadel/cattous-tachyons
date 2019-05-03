@@ -1,6 +1,6 @@
 {
   "name": "cattous-tachyons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tachyons theme for Cattous",
   "main": "src/index.js",
   "repository": "https://github.com/ImedAdel/cattous-tachyons",
