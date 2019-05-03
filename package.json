@@ -6,5 +6,15 @@
   "repository": "https://github.com/ImedAdel/cattous-tachyons",
   "author": "Imed Adel <aadelimed@gmail.com> (https://imedadel.me)",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "keywords": [
+    "react-component",
+    "styled-components",
+    "styled-system",
+    "css-in-js",
+    "css-in-jsx",
+    "cattous",
+    "framework",
+    "tachyons"
+  ]
 }
